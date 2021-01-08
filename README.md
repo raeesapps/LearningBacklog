@@ -16,6 +16,8 @@ Agile Principles, Patterns, and Practices in C#
 
 Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+
 Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
 
 Kubernetes: Up and Running: Dive Into the Future of Infrastructure
