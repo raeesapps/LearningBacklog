@@ -3,14 +3,10 @@
 ## In Progress
 SQL Server 2012 T-SQL Fundamentals [nearly completed]
 
-Effective C#
-
 ## Books
 SQL Server 2012 T-SQL Fundamentals
 
 Pro Git
-
-Effective C#
 
 Agile Principles, Patterns, and Practices in C#
 
