@@ -20,6 +20,7 @@ Kubernetes: Up and Running: Dive Into the Future of Infrastructure
 
 ## Activities
 Put together lightning talk about actor frameworks
+
 Read https://speakerdeck.com/alextercete/parallelism-and-symmetry-c9000356-c5a9-4b02-846d-1f6cd12ed267
 
 ## Online bootcamps
