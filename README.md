@@ -2,6 +2,7 @@
 
 ## In Progress
 SQL Server 2012 T-SQL Fundamentals [nearly completed]
+Read https://speakerdeck.com/alextercete/parallelism-and-symmetry-c9000356-c5a9-4b02-846d-1f6cd12ed267
 
 ## Books
 SQL Server 2012 T-SQL Fundamentals
@@ -20,8 +21,6 @@ Kubernetes: Up and Running: Dive Into the Future of Infrastructure
 
 ## Activities
 Put together lightning talk about actor frameworks
-
-Read https://speakerdeck.com/alextercete/parallelism-and-symmetry-c9000356-c5a9-4b02-846d-1f6cd12ed267
 
 ## Online bootcamps
 https://www.udemy.com/course/complete-aspnet-core-21-course/
