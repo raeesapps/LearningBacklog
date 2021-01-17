@@ -14,6 +14,3 @@ Modern Compiler Implementation in Java
 
 ## Activities
 Put together lightning talk about actor frameworks
-
-## Online bootcamps
-k8 portion of: https://www.udemy.com/course/docker-mastery/
