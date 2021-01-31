@@ -3,6 +3,7 @@
 ## In Progress
 
 Agile Principles, Patterns, and Practices in C#
+
 MIT OCW 6.824: Distributed Systems
 
 ## Books
