@@ -9,6 +9,8 @@ MIT OCW 6.824: Distributed Systems
 ## Books
 Pro Git
 
+Data-Oriented Programming
+
 ## Courses
 MIT OCW 6.824: Distributed Systems
 
