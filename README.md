@@ -13,6 +13,8 @@ Data-Oriented Programming
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
+Working Effectively with Legacy Code
+
 ## Courses [max 1]
 MIT OCW 6.824: Distributed Systems
 
