@@ -17,6 +17,8 @@ Working Effectively with Legacy Code
 
 Programming F# 3.0
 
+Purely Functional Data Structures
+
 ## Courses [max 1]
 MIT OCW 6.824: Distributed Systems
 
