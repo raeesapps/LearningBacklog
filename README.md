@@ -1,6 +1,6 @@
 # Raees' learning backlog
 
-## In Progress [max 2]
+## In Progress [max 3]
 Agile Principles, Patterns, and Practices in C#
 
 ## On hold
