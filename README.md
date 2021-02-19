@@ -15,6 +15,8 @@ Data-Oriented Programming [MEAP 2]
 
 Working Effectively with Legacy Code
 
+Programming F# 3.0
+
 ## Courses [max 1]
 MIT OCW 6.824: Distributed Systems
 
