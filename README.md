@@ -1,9 +1,9 @@
 # Raees' learning backlog
 
 ## In Progress [max 2]
-
 Agile Principles, Patterns, and Practices in C#
 
+## On hold
 MIT OCW 6.824: Distributed Systems
 
 ## Books [max 4]
