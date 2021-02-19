@@ -2,6 +2,7 @@
 
 ## In Progress [max 3]
 Agile Principles, Patterns, and Practices in C#
+
 Infrastructure as Code: Dynamic Systems for the Cloud Age
 
 ## On hold
