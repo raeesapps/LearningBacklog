@@ -13,8 +13,6 @@ Pro Git
 
 Data-Oriented Programming [MEAP 2]
 
-Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-
 Working Effectively with Legacy Code
 
 ## Courses [max 1]
