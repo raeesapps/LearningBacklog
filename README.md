@@ -11,7 +11,7 @@ MIT OCW 6.824: Distributed Systems
 ## Books [max 4]
 Pro Git
 
-Data-Oriented Programming
+Data-Oriented Programming [MEAP 2]
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
