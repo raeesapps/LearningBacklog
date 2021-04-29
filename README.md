@@ -1,6 +1,8 @@
 # Raees' learning backlog
 
 ## In Progress [max 3]
+The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+
 Infrastructure as Code: Dynamic Systems for the Cloud Age
 
 ## Books [max 4]
