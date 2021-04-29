@@ -1,8 +1,6 @@
 # Raees' learning backlog
 
 ## In Progress [max 3]
-Agile Principles, Patterns, and Practices in C#
-
 Infrastructure as Code: Dynamic Systems for the Cloud Age
 
 ## Books [max 4]
