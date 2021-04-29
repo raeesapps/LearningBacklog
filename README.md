@@ -4,6 +4,8 @@
 Infrastructure as Code: Dynamic Systems for the Cloud Age
 
 ## Books [max 4]
+Guide to Competitive Programming: Learning and Improving Algorithms Through Contests
+
 Pro Git
 
 Working Effectively with Legacy Code
