@@ -12,6 +12,8 @@ Pro Git
 
 Working Effectively with Legacy Code
 
+Staff Engineer: Leadership Beyond the Management Track
+
 ## On Hold [max 2]
 Data-Oriented Programming (awaiting next MEAP)
 
