@@ -1,6 +1,8 @@
 # Raees' learning backlog
 
 ## In Progress [max 3]
+Data-Oriented Programming
+
 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 
 Infrastructure as Code: Dynamic Systems for the Cloud Age
@@ -15,7 +17,6 @@ Working Effectively with Legacy Code
 Staff Engineer: Leadership Beyond the Management Track
 
 ## On Hold [max 2]
-Data-Oriented Programming (awaiting next MEAP)
 
 ## Activities [max 8]
 Put together lightning talk about actor frameworks
