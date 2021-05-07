@@ -14,6 +14,8 @@ Pro Git
 
 Staff Engineer: Leadership Beyond the Management Track
 
+Design patterns : elements of reusable object-oriented software
+
 ## On Hold [max 2]
 
 ## Activities [max 8]
