@@ -12,8 +12,6 @@ Guide to Competitive Programming: Learning and Improving Algorithms Through Cont
 
 Pro Git
 
-Working Effectively with Legacy Code
-
 Staff Engineer: Leadership Beyond the Management Track
 
 ## On Hold [max 2]
