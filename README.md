@@ -1,14 +1,14 @@
 # Raees' learning backlog
 
 ## In Progress [max 3]
+Staff Engineer: Leadership Beyond the Management Track
+
 Pro Git
 
 Infrastructure as Code: Dynamic Systems for the Cloud Age
 
 ## Books [max 4]
 Guide to Competitive Programming: Learning and Improving Algorithms Through Contests
-
-Staff Engineer: Leadership Beyond the Management Track
 
 Design patterns : elements of reusable object-oriented software
 
