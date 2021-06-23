@@ -10,6 +10,8 @@ Guide to Competitive Programming: Learning and Improving Algorithms Through Cont
 
 Design patterns : elements of reusable object-oriented software
 
+Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
+
 ## On Hold [max 2]
 Data-Oriented Programming (awaiting next MEAP)
 
