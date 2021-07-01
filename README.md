@@ -5,12 +5,12 @@ Staff Engineer: Leadership Beyond the Management Track
 
 Pro Git
 
+Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
+
 ## Books [max 4]
 Guide to Competitive Programming: Learning and Improving Algorithms Through Contests
 
 Design patterns : elements of reusable object-oriented software
-
-Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
 
 ## On Hold [max 2]
 Data-Oriented Programming (awaiting next MEAP)
