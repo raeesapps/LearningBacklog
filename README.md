@@ -1,8 +1,6 @@
 # Raees' learning backlog
 
 ## In Progress [max 3]
-Staff Engineer: Leadership Beyond the Management Track
-
 Pro Git
 
 Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
