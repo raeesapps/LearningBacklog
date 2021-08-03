@@ -10,6 +10,8 @@ Guide to Competitive Programming: Learning and Improving Algorithms Through Cont
 
 Design patterns : elements of reusable object-oriented software
 
+Designing Web APIs: Building APIs That Developers Love (Brenda Jin)
+
 ## On Hold [max 2]
 Data-Oriented Programming (awaiting next MEAP)
 
