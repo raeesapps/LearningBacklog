@@ -12,8 +12,4 @@ Design patterns : elements of reusable object-oriented software
 
 Designing Web APIs: Building APIs That Developers Love (Brenda Jin)
 
-## On Hold [max 2]
-Data-Oriented Programming (awaiting next MEAP)
-
-## Activities [max 8]
-Put together lightning talk about actor frameworks
+Data-Oriented Programming (next MEAPs)
