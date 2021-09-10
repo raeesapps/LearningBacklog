@@ -7,7 +7,3 @@ Pro Git
 Guide to Competitive Programming: Learning and Improving Algorithms Through Contests
 
 Design patterns : elements of reusable object-oriented software
-
-Designing Web APIs: Building APIs That Developers Love (Brenda Jin)
-
-Data-Oriented Programming (next MEAPs)
