@@ -3,7 +3,7 @@
 ## In Progress [max 2]
 Pro Git
 
-## Books [max 3]
+## Books [max 4]
 Design patterns : elements of reusable object-oriented software
 
 Java Concurrency in Practice 
