@@ -10,6 +10,8 @@ Java Concurrency in Practice
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
+Domain-Driven Design: Tackling Complexity in the Heart of Software
+
 ## Other
 Learn vim and nerdtree
 
