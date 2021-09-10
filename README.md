@@ -12,4 +12,5 @@ Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, 
 
 ## Other
 Learn vim and nerdtree
+
 Learn how to debug a C# application in the command-line
