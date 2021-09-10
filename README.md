@@ -4,6 +4,4 @@
 Pro Git
 
 ## Books [max 4]
-Guide to Competitive Programming: Learning and Improving Algorithms Through Contests
-
 Design patterns : elements of reusable object-oriented software
