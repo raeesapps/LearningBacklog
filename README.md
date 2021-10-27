@@ -8,7 +8,7 @@ Java Concurrency in Practice
 ## Books [max 4]
 Design patterns : elements of reusable object-oriented software
 
-Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+System Design – An insider's guide
 
 Domain-Driven Design: Tackling Complexity in the Heart of Software
 
