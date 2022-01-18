@@ -15,7 +15,7 @@ Learning the bash Shell: Unix Shell Programming
 Terraform: Up & Running
 
 ## Other
-Learn vim and nerdtree
+Learn vim, vimdiff and nerdtree
 
 Azure DevOps Engineer cert
 
