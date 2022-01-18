@@ -16,3 +16,7 @@ Terraform: Up & Running
 
 ## Other
 Learn vim and nerdtree
+
+Azure DevOps Engineer cert
+
+CKAD cert
