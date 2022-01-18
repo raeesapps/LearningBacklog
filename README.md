@@ -3,7 +3,7 @@
 ## In Progress [max 2]
 
 
-## Books [max 4]
+## Books
 Pro Git
 
 Certified Kubernetes Application Developer (CKAD) Study Guide
