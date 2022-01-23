@@ -3,6 +3,8 @@
 ## In Progress [max 2]
 Site Reliability Engineering: How Google Runs Production Systems
 
+Terraform for the Absolute Beginners with Labs
+
 ## Books
 Pro Git
 
