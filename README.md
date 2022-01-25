@@ -14,8 +14,6 @@ Designing Data-Intensive Applications
 
 Learning the bash Shell: Unix Shell Programming
 
-Terraform: Up & Running
-
 ## Other
 Learn vim, vimdiff and nerdtree
 
