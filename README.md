@@ -8,7 +8,7 @@ Terraform for the Absolute Beginners with Labs
 ## Books and Courses
 Pro Git
 
-Certified Kubernetes Application Developer (CKAD) Study Guide
+Kubernetes Certified Application Developer (CKAD) with Tests
 
 Learning the bash Shell: Unix Shell Programming
 
