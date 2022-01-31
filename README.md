@@ -10,8 +10,6 @@ Pro Git
 
 Certified Kubernetes Application Developer (CKAD) Study Guide
 
-Designing Data-Intensive Applications
-
 Learning the bash Shell: Unix Shell Programming
 
 ## Other
@@ -20,3 +18,6 @@ Learn vim, vimdiff and nerdtree
 Azure DevOps Engineer cert
 
 CKAD cert
+
+## Later
+Designing Data-Intensive Applications
