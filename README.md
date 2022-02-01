@@ -3,6 +3,8 @@
 ## In Progress [max 2]
 Site Reliability Engineering: How Google Runs Production Systems
 
+Certified Kubernetes Application Developer certificate
+
 ## Books and Courses
 Pro Git
 
@@ -18,8 +20,6 @@ Microsoft Certified: Azure Developer – Associate Exam AZ-204
 Microsoft Certified: Azure Administrator – Associate Exam AZ-104
 
 Microsoft Certified: Azure DevOps Engineer – Expert Exam AZ-400
-
-Certified Kubernetes Application Developer certificate
 
 ## Later
 Designing Data-Intensive Applications
