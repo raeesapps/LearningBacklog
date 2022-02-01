@@ -3,8 +3,6 @@
 ## In Progress [max 2]
 Site Reliability Engineering: How Google Runs Production Systems
 
-Terraform for the Absolute Beginners with Labs
-
 ## Books and Courses
 Pro Git
 
@@ -29,3 +27,8 @@ Designing Data-Intensive Applications
 Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications
 
 Learning Go: An Idiomatic Approach to Real-World Go Programming
+
+## Done
+Terraform for the Absolute Beginners with Labs
+
+Kubernetes for the Absolute Beginners - Hands-on
