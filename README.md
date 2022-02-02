@@ -15,12 +15,6 @@ Learning the bash Shell: Unix Shell Programming
 ## Other
 Learn vim, vimdiff and nerdtree
 
-Microsoft Certified: Azure Developer – Associate Exam AZ-204
-
-Microsoft Certified: Azure Administrator – Associate Exam AZ-104
-
-Microsoft Certified: Azure DevOps Engineer – Expert Exam AZ-400
-
 ## Later
 Designing Data-Intensive Applications
 
