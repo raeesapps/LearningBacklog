@@ -8,8 +8,6 @@ Certified Kubernetes Application Developer certificate
 ## Books and Courses
 Pro Git
 
-Kubernetes Certified Application Developer (CKAD) with Tests
-
 Learning the bash Shell: Unix Shell Programming
 
 ## Other
