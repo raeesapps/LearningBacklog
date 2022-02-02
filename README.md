@@ -16,8 +16,6 @@ Learn vim, vimdiff and nerdtree
 ## Later
 Designing Data-Intensive Applications
 
-Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications
-
 Learning Go: An Idiomatic Approach to Real-World Go Programming
 
 ## Done
