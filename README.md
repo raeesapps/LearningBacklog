@@ -18,6 +18,8 @@ Designing Data-Intensive Applications
 
 Learning Go: An Idiomatic Approach to Real-World Go Programming
 
+https://github.com/petabridge/akka-bootcamp
+
 ## Done
 Terraform for the Absolute Beginners with Labs
 
