@@ -5,13 +5,12 @@ Site Reliability Engineering: How Google Runs Production Systems
 
 Certified Kubernetes Application Developer certificate
 
+Learn vim, vimdiff and nerdtree
+
 ## Books and Courses
 Pro Git
 
 Learning the bash Shell: Unix Shell Programming
-
-## Other
-Learn vim, vimdiff and nerdtree
 
 ## Later
 Designing Data-Intensive Applications
