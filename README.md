@@ -15,8 +15,6 @@ The System Administrator's Guide to Bash Scripting [acloudguru]
 ## Later
 Designing Data-Intensive Applications
 
-Learning Go: An Idiomatic Approach to Real-World Go Programming
-
 https://app.codecrafters.io/
 
 https://github.com/petabridge/akka-bootcamp
