@@ -10,7 +10,7 @@ Learn vim, vimdiff and nerdtree
 ## Books and Courses
 Pro Git
 
-Learning the bash Shell: Unix Shell Programming
+The System Administrator's Guide to Bash Scripting [acloudguru]
 
 ## Later
 Designing Data-Intensive Applications
