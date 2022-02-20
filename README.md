@@ -12,12 +12,16 @@ Pro Git
 
 The System Administrator's Guide to Bash Scripting [acloudguru]
 
+Linux Foundation Certified System Administrator (LFCS) [acloudguru]
+
 ## Later
 Designing Data-Intensive Applications
 
 https://app.codecrafters.io/
 
 https://github.com/petabridge/akka-bootcamp
+
+Linux Networking and Troubleshooting [acloudguru]
 
 ## Done
 Terraform for the Absolute Beginners with Labs
