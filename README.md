@@ -19,8 +19,6 @@ Azure DevOps Engineer roadmap [acloudguru]
 ## Later
 Designing Data-Intensive Applications
 
-https://app.codecrafters.io/
-
 https://github.com/petabridge/akka-bootcamp
 
 Linux Networking and Troubleshooting [acloudguru]
