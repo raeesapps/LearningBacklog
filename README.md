@@ -5,8 +5,6 @@ Site Reliability Engineering: How Google Runs Production Systems
 
 Certified Kubernetes Application Developer certificate
 
-Learn vim, vimdiff and nerdtree
-
 ## Books and Courses
 Pro Git
 
