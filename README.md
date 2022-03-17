@@ -12,7 +12,7 @@ The System Administrator's Guide to Bash Scripting [acloudguru]
 
 Linux Foundation Certified System Administrator (LFCS) [acloudguru]
 
-Azure DevOps Engineer roadmap [acloudguru]
+Microsoft Certified: Azure Administrator Associate 
 
 ## Later
 Designing Data-Intensive Applications
