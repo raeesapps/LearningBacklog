@@ -12,10 +12,16 @@ The System Administrator's Guide to Bash Scripting [acloudguru]
 
 Microsoft Certified: Azure Developer Associate 
 
+Finish reading Java Concurrency in Practice
+
 ## Later
 Designing Data-Intensive Applications
 
 https://github.com/petabridge/akka-bootcamp
+
+Designing Distributed Systems
+
+Refactoring to Patterns
 
 ## Done
 Terraform for the Absolute Beginners with Labs
