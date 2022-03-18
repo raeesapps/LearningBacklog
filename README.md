@@ -10,7 +10,7 @@ Pro Git
 
 The System Administrator's Guide to Bash Scripting [acloudguru]
 
-Microsoft Certified: Azure Administrator Associate 
+Microsoft Certified: Azure Developer Associate 
 
 ## Later
 Designing Data-Intensive Applications
