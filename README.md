@@ -17,9 +17,7 @@ Designing Data-Intensive Applications
 
 https://github.com/petabridge/akka-bootcamp
 
-Designing Distributed Systems
-
-Refactoring to Patterns
+Kubernetes Patterns
 
 ## Done
 Terraform for the Absolute Beginners with Labs
