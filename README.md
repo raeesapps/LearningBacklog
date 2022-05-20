@@ -5,10 +5,10 @@ Site Reliability Engineering: How Google Runs Production Systems
 
 Certified Kubernetes Application Developer certificate
 
+The System Administrator's Guide to Bash Scripting [acloudguru]
+
 ## Books and Courses
 Pro Git
-
-The System Administrator's Guide to Bash Scripting [acloudguru]
 
 Microsoft Certified: Azure Developer Associate 
 
