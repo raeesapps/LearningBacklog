@@ -12,8 +12,6 @@ The System Administrator's Guide to Bash Scripting [acloudguru]
 
 Microsoft Certified: Azure Developer Associate 
 
-Finish reading Java Concurrency in Practice
-
 ## Later
 Designing Data-Intensive Applications
 
