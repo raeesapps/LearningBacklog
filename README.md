@@ -5,8 +5,6 @@ Site Reliability Engineering: How Google Runs Production Systems
 
 Certified Kubernetes Application Developer certificate
 
-The System Administrator's Guide to Bash Scripting [acloudguru]
-
 ## Books and Courses
 Pro Git
 
@@ -23,3 +21,5 @@ Kubernetes Patterns
 Terraform for the Absolute Beginners with Labs
 
 Kubernetes for the Absolute Beginners - Hands-on
+
+The System Administrator's Guide to Bash Scripting [acloudguru]
