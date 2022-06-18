@@ -3,14 +3,14 @@
 ## In Progress [max 2]
 Certified Kubernetes Application Developer certificate
 
+Designing Data-Intensive Applications
+
 ## Books and Courses
 Pro Git
 
 Microsoft Certified: Azure Developer Associate 
 
 ## Later
-Designing Data-Intensive Applications
-
 https://github.com/petabridge/akka-bootcamp
 
 Kubernetes Patterns
