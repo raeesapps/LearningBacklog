@@ -8,10 +8,10 @@ Pro Git
 
 Microsoft Certified: Azure Developer Associate 
 
+Kubernetes Patterns
+
 ## Later
 https://github.com/petabridge/akka-bootcamp
-
-Kubernetes Patterns
 
 ## Done
 Terraform for the Absolute Beginners with Labs
