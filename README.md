@@ -3,6 +3,8 @@
 ## In Progress [max 2]
 Designing Data-Intensive Applications
 
+ACloudGuru Linux Foundation Certified System Administrator (LFCS, course only)
+
 ## Books and Courses
 Pro Git
 
