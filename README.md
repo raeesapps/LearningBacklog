@@ -1,8 +1,6 @@
 # Raees' learning backlog
 
 ## In Progress [max 2]
-Certified Kubernetes Application Developer certificate
-
 Designing Data-Intensive Applications
 
 ## Books and Courses
@@ -23,3 +21,5 @@ Kubernetes for the Absolute Beginners - Hands-on
 The System Administrator's Guide to Bash Scripting [acloudguru]
 
 Site Reliability Engineering: How Google Runs Production Systems
+
+Certified Kubernetes Application Developer certificate
