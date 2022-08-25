@@ -8,8 +8,6 @@ ACloudGuru Linux Foundation Certified System Administrator (LFCS, course only)
 ## Books and Courses
 Pro Git
 
-Microsoft Certified: Azure Developer Associate 
-
 Kubernetes Patterns
 
 ## Later
